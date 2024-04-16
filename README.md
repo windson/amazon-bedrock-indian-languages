@@ -5,6 +5,8 @@ The use cases for content Indian languages with Amazon Bedrock Claude 3 include 
 1. Information extraction,
 2. Summarisation
 3. Question answering
+4. Translation
+5. Transliteration
 
 You can apply the use case for the content in Indian languages such as Hindi, Telugu, Tamil, Malayalam, Marathi, Kannada to mention a few.
 
